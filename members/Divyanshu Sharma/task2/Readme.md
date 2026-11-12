@@ -1,5 +1,5 @@
 
-# Task 1: House Price Prediction Using NumPy
+# Task 2: House Price Prediction Using NumPy
 
 ## 1. Objective
 
